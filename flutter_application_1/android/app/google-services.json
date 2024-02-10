@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "821860437155",
+    "firebase_url": "https://fluttervezba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fluttervezba",
+    "storage_bucket": "fluttervezba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821860437155:android:20ccece379ef706dd80316",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBfTkS5P1aT0GEn5a83kPPHe8OTD_g-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
